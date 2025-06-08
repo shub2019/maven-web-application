@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-54-91-9-204.compute-1.amazonaws.com:8081/repository/citibank-release/</url>
+	      <url>http://3.82.101.235:8081/repository/citibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-54-91-9-204.compute-1.amazonaws.com:8081/repository/citibank-snapshot/</url>
+	      <url>http://3.82.101.235:8081/repository/citibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
